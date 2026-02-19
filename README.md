@@ -41,6 +41,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost folium pgeocode
 Download the dataset from [Kaggle](https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset) and place `realtor-data.zip.csv` in the project directory.
 
 ## Interactive Maps
-The project generates two interactive HTML maps:
-- **State level** — click any state to see avg, median, min, max prices
-- **Zip code level** — bubble size represents average price, click for details
+Download and unzip `maps.zip`, then open the HTML files in your browser:
+- **avg_price_by_state.html** - click any state bubble for price stats
+- **avg_price_by_zip.html** - bubble size represents average price
