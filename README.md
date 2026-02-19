@@ -1,6 +1,6 @@
 # USA Real Estate Market Analysis & Price Prediction
 
-An end-to-end data science project analyzing 2.2 million US real estate listings to uncover market trends and predict house prices using machine learning.
+An end-to-end data science project analyzing 2.2 million US real estate listings from 2022 to uncover market trends and predict house prices using machine learning.
 
 ## Results
 | Metric | Score |
